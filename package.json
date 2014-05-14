@@ -1,0 +1,9 @@
+{
+  "name": "scanjs-addon",
+  "title": "scanjs-addon",
+  "id": "jid1-mGQAbt9sBupbOw",
+  "description": "running scanjs in an add-on",
+  "author": "Frederik Braun, Paul Theriault",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
